@@ -1,0 +1,5 @@
+module Douban
+  module Cite
+    VERSION = "0.0.1"
+  end
+end
