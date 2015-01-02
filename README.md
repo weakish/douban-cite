@@ -1,5 +1,7 @@
 # douban-cite
 
+[![Gem Version](https://badge.fury.io/rb/douban-cite.svg)](http://badge.fury.io/rb/douban-cite)
+
 A book reference generator. Book information is fetched from [douban](http://www.douban.com).
 
 ## Installation
