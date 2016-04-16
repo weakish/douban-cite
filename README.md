@@ -34,7 +34,7 @@ And `Th: The MIT Press.` should be:
 
     Cambridge, MA: MIT Press
 
-(`Th` is a silly guess, which may be useful for some Chinese publisher.)
+(`Th` is a silly guess, which may be useful for some Chinese publishers.)
 
 
 ### As a library
