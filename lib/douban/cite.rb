@@ -7,7 +7,7 @@ require 'rest_client'
 
 module Douban
   module Cite
-    Douban_API_base = 'http://api.douban.com'
+    Douban_API_base = 'https://api.douban.com'
     Douban_Book_info = Douban_API_base + '/v2/book/'
 
     module_function
