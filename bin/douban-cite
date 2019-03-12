@@ -1,7 +1,0 @@
-require 'douban/cite'
-
-if ARGV[0].match /h/
-  puts 'Usage: douban-cite ISBN_OR_DOUBAN_ID'
-else
-  puts Douban::Cite.convert_to_ref(Douban::Cite.get_book_info(ARGV[0]))
-end
